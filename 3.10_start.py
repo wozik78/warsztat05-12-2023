@@ -1,0 +1,2 @@
+import pakiet
+pakiet.powitanie()
